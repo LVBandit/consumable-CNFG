@@ -8904,8 +8904,8 @@
     "IsActive": false,
     "ActiveDurationMinutes": null,
     "IsTransferable": false,
-    "ThumbnailImageName": "5387dbuhig669ur718vpb2z1w.png",
-    "FriendlyName": "Jeff Test Paintbrush Consumable",
+    "ThumbnailImageName": "a4uiv5ph53fy8scpay4ekqw2l.png",
+    "FriendlyName": "Magic Paintbrush",
     "ActivatedByRoomie": false,
     "IsRRO": true
   },
@@ -10078,7 +10078,95 @@
     "FriendlyName": "The Hexvoid Staff",
     "ActivatedByRoomie": false,
     "IsRRO": true
+  },
+  {
+    "Ids": [
+      1609
+    ],
+    "CreatedAts": [
+      "2026-02-13T23:28:51.1669637Z"
+    ],
+    "ConsumableItemDesc": "KmMXHu_UfkW4tWuxcItZeg",
+    "Count": 2147483647,
+    "InitialCount": 2147483647,
+    "IsActive": false,
+    "ActiveDurationMinutes": null,
+    "IsTransferable": false,
+    "ThumbnailImageName": "am4oklw1kdtyzwk7rpfiym997.png",
+    "FriendlyName": "Bonnie Bear",
+    "ActivatedByRoomie": false,
+    "IsRRO": true
+  },
+  {
+    "Ids": [
+      1610
+    ],
+    "CreatedAts": [
+      "2026-02-19T08:33:54.7207418Z"
+    ],
+    "ConsumableItemDesc": "i2H1tosenk6SzGtNwBmgUw",
+    "Count": 2147483647,
+    "InitialCount": 2147483647,
+    "IsActive": false,
+    "ActiveDurationMinutes": null,
+    "IsTransferable": false,
+    "ThumbnailImageName": "5rzovqp3rmwif6zkhc42wxwi3.png",
+    "FriendlyName": "Token Gun",
+    "ActivatedByRoomie": false,
+    "IsRRO": true
+  },
+  {
+    "Ids": [
+      1611
+    ],
+    "CreatedAts": [
+      "2026-02-19T08:34:25.0499769Z"
+    ],
+    "ConsumableItemDesc": "WtADuhVYAkibhfcUgGKcYQ",
+    "Count": 2147483647,
+    "InitialCount": 2147483647,
+    "IsActive": false,
+    "ActiveDurationMinutes": null,
+    "IsTransferable": false,
+    "ThumbnailImageName": "0n0endl4jzbruqvtc0uv2hrid.png",
+    "FriendlyName": "Soundboard",
+    "ActivatedByRoomie": false,
+    "IsRRO": true
+  },
+  {
+    "Ids": [
+      1612
+    ],
+    "CreatedAts": [
+      "2026-02-19T11:21:20.7405452Z"
+    ],
+    "ConsumableItemDesc": "5jI4IRmq4UOHT7-iWE_zpA",
+    "Count": 2147483647,
+    "InitialCount": 2147483647,
+    "IsActive": false,
+    "ActiveDurationMinutes": null,
+    "IsTransferable": false,
+    "ThumbnailImageName": "08nave1sq7ebp4zzimbamoekz.png",
+    "FriendlyName": "World's Smallest Violin",
+    "ActivatedByRoomie": false,
+    "IsRRO": true
+  },
+  {
+    "Ids": [
+      1613
+    ],
+    "CreatedAts": [
+      "2026-02-19T11:21:42.9903572Z"
+    ],
+    "ConsumableItemDesc": "5QCe6PYZvEOdxb76GB-r4g",
+    "Count": 2147483647,
+    "InitialCount": 2147483647,
+    "IsActive": false,
+    "ActiveDurationMinutes": null,
+    "IsTransferable": false,
+    "ThumbnailImageName": "1tfam21fyo1mtv0wey03tse1h.png",
+    "FriendlyName": "Lizard Lizard",
+    "ActivatedByRoomie": false,
+    "IsRRO": true
   }
-
 ]
-
